@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">💻 Languages and Tools:</h4>
+<h3 align="left">💻 Languages and Tools:</h3>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h4 align="left">📫 Contact me:</h4>
+<h3 align="left">📫 Contact me:</h3>
 
 ###
 
@@ -85,7 +85,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://profile-counter.glitch.me/kevintea/count.svg?"  />
 </div>
 
