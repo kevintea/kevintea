@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning Automation with Playwright & TypeScript<br><br>💬 Ask me about Accesibility Testing<br><br>😄 Pronouns: He 🙋🏽‍♂️<br><br>⚡ Fun fact D&D Player 🐲<br><br><br></h4>
+<h4 align="left">💡 I’m currently learning Automation with Playwright & TypeScript<br><br>💬 Ask me about Accesibility Testing<br><br>⚡ Fun fact D&D Player 🐲<br><br><br></h4>
 
 ###
 
@@ -39,8 +39,6 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="7" />
-</div>
-  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
@@ -61,7 +59,8 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" height="30" alt="ifttt logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"<br><br><br>  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+    <br><br><br>
 </div>
 
 ###
