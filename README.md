@@ -1,44 +1,43 @@
-<h1 align="left">Hi 👋, I'm Kevin Tea</h1>
+# Hi, I'm Kevin Tea 👋
 
-<h2 align="left">QA Automation Analyst from Argentina 🐞🇦🇷</h2>
+### QA Automation Analyst from Argentina 🇦🇷
 
-<h4 align="left">
-💡 Currently working on automated testing pipelines for frontend & backend deploys<br><br>
-🧪 Specializing in Playwright + TypeScript + CI/CD<br><br>
-♿ Advocating for Accessibility Testing practices<br><br>
-🚀 Co-maintainer of <strong>psynaps-qa-automation</strong>, fully integrated with GitHub Actions<br><br>
-⚡ Fun fact: I'm also a D&D player 🐲
-</h4>
+I build maintainable testing systems that help teams release frontend and backend changes with confidence.
 
-<h3 align="left">💻 Languages and Tools:</h3>
+My current focus is **Playwright**, **TypeScript**, **CI/CD quality gates**, and **accessibility testing**.
 
-<div align="left">
-  <!-- (Tu bloque de íconos actual va perfectamente, lo dejamos igual) -->
-  ... <!-- El bloque de logos queda sin cambios -->
-  <br><br><br>
-</div>
+## What I do
 
-<h3 align="left">📫 Contact me:</h3>
+- Design and maintain end-to-end test suites with Playwright
+- Combine manual, exploratory, and automated testing based on product risk
+- Validate frontend and backend behavior across delivery pipelines
+- Build reliable fixtures using synthetic test data
+- Integrate automated checks into GitHub Actions and CI/CD workflows
+- Promote accessible and maintainable testing practices
 
-<div align="left">
-  <a href="https://linkedin.com/in/kevintea" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="mailto:kevinmatiastea@gmail.com" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-  <a href="https://twitter.com/_teakevin" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-  <a href="https://wa.link/evbnof" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /></a>
-  <a href="https://www.instagram.com/_kevintea/" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-</div>
+## Core toolkit
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevintea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kevintea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-</div>
+`Playwright` · `TypeScript` · `JavaScript` · `Node.js` · `GitHub Actions` · `Git` · `HTML` · `CSS`
 
-<br clear="both">
+## Current focus
 
-<div align="center">
-  <img height="300" src="https://th.bing.com/th/id/OIG3.SdT_hqWVf7ytO2cD4XM5?pid=ImgGn"  />
-</div>
+- Improving automated quality gates for frontend and backend releases
+- Expanding accessibility and API testing practices
+- Building reusable patterns for stable, maintainable test suites
+- Sharing Playwright knowledge through workshops and practical examples
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kevintea/count.svg?"  />
-</div>
+## Featured work
+
+### [Playwright Workshop](https://github.com/kevintea/taller-playwright-atenea)
+
+A hands-on repository for learning and practicing browser automation with Playwright and TypeScript.
+
+> More public QA automation examples and case studies are coming soon.
+
+## A little more about me
+
+Outside of QA, I enjoy Dungeons & Dragons and collaborative problem-solving. 🐉
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/kevintea/) · Open to QA Automation and SDET opportunities
